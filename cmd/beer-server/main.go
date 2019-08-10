@@ -8,7 +8,7 @@ import (
         "github.com/cetessai2501/clonek/pkg/adding"
 	"github.com/cetessai2501/clonek/pkg/listing"
 	"github.com/cetessai2501/clonek/pkg/reviewing" 
-        "github.com/cetessai2501/clonek/http/rest" 
+        "github.com/cetessai2501/clonek/pkg/http/rest" 
         "github.com/cetessai2501/clonek/pkg/storage/json"
 	"github.com/cetessai2501/clonek/pkg/storage/memory" 
 
